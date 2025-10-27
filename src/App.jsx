@@ -106,7 +106,7 @@ const App = () => {
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             transition={{ duration: 0.4, ease: "easeOut" }}
-            className="inline-flex items-center gap-2 px-4 py-2 bg-blue-100 rounded-full mb-6"
+            className="inline-flex items-center gap-2 px-4 py-4 bg-blue-100 rounded-full mb-6 mt-4"
           >
             <span className="w-2 h-2 bg-blue-600 rounded-full"></span>
             <span className="text-sm font-medium text-blue-900">25+ Years of Trusted Service</span>
